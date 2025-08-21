@@ -28,7 +28,7 @@ I'm a **Web Developer** and **Computer Science student** passionate about techno
 - 📸 [Instagram](https://www.instagram.com/angelmailee/)
 - 🎥 [TikTok](https://www.tiktok.com/@angelmaile)
 - 🔴 [YouTube](https://www.youtube.com/@angelmailey)
-- 📧 [Email](mailto:angelmaile.com)  
+- 📧 [Email](mailto:info@angelmaile.com)  
 - 🌍 [My Personal Website](https://www.angelmaile.com)
 - 💼 [My Tech Company](https://www.wely.co.za)
 - 🐦 [Twitter](https://x.com/angelmailee)  
