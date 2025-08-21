@@ -24,7 +24,7 @@ I'm a **Web Developer** and **Computer Science student** passionate about techno
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/angel-maile-76317b369/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/angelmaile/)
 - 📸 [Instagram](https://www.instagram.com/angelmailee/)
 - 🎥 [TikTok](https://www.tiktok.com/@angelmaile)
 - 🔴 [YouTube](https://www.youtube.com/@angelmailey)
